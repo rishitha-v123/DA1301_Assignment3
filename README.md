@@ -8,4 +8,7 @@ My name is Rishitha
   using git bash via vscode terminal is good
  # GIT COMMAND WHICH I FOUND USEFUL
  git status feels like a life saver
+ # What I Learned
+ I am learning how Git and GitHub work together.
+
  
